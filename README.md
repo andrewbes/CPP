@@ -1,1 +1,1 @@
-# cpps The code is designed to study C ++ programming
+# The code is designed to study C ++ programming
